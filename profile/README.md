@@ -17,3 +17,5 @@ These projects are:
 If you like what you see and want to support these projects (or maybe fund the next mug refill!), you can do so through [GitHub Sponsors](https://github.com/sponsors).
 
 Feel free to browse, fork, or reach out. Collaboration and feedback are always welcome! 💬
+
+If you want to know more about me, visit [my website](https://lorenzomugnai.com/). 🌐
